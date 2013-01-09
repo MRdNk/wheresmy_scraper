@@ -1,0 +1,185 @@
+{"service":"1","operator":"First","area":"Bristol","routeName":"Broom Hill - Centre - Cribbs Causeway"}
+{"service":"4","operator":"First","area":"Bristol","routeName":"Downend - Frenchay - Centre"}
+{"service":"5","operator":"First","area":"Bristol","routeName":"Downend - Fishponds - Centre"}
+{"service":"5","operator":"First","area":"Weston-super-Mare","routeName":"Worle - Uphill"}
+{"service":"6","operator":"First","area":"Bristol","routeName":"Kingswood - Speedwell - Centre"}
+{"service":"7","operator":"First","area":"Bristol","routeName":"Staple Hill - Speedwell - Centre"}
+{"service":"7","operator":"First","area":"Weston-super-Mare","routeName":"Worle - Oldmixon"}
+{"service":"8","operator":"First","area":"Bristol","routeName":"TempleMeads  - Clifton - TempleMeads"}
+{"service":"9","operator":"First","area":"Bristol","routeName":"TempleMeads  - Redland - TempleMeads"}
+{"service":"11","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Temple Meads - Bower Ashton"}
+{"service":"11A","operator":"Wessex","area":"Bristol","routeName":"Broadmead - Bower Ashton"}
+{"service":"12","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Horfield - Centre"}
+{"service":"13","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Fishponds - Broadmead"}
+{"service":"13A","operator":"Wessex","area":"Bristol","routeName":"Oldbury Court - Fishponds - Broadmead"}
+{"service":"14","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Centre"}
+{"service":"14","operator":"First","area":"Wales","routeName":"Chepstow - Newport"}
+{"service":"15","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Henleaze - Centre"}
+{"service":"16","operator":"Wessex","area":"Bristol","routeName":"Sneyd Park - Bristol University - Centre"}
+{"service":"18","operator":"First","area":"Bristol","routeName":"Emersons Green - UWE Frenchay - Southmead"}
+{"service":"19","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Redland - Centre"}
+{"service":"20","operator":"First","area":"Bristol","routeName":"Hengrove Depot - Centre - Southmead"}
+{"service":"21","operator":"First","area":"B&NES","routeName":"Newbridge Park & Ride - Centre"}
+{"service":"24","operator":"First","area":"Bristol","routeName":"Horfield - Easton - Centre - Ashton Vale"}
+{"service":"25","operator":"First","area":"Bristol","routeName":"Horfield - St Paul's - Centre - Ashton Vale"}
+{"service":"31","operator":"First","area":"B&NES","routeName":"Lansdown Park & Ride - Centre"}
+{"service":"36","operator":"First","area":"Bristol","routeName":"Withywood - Knowle - St. Annes - Centre"}
+{"service":"40","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Shirehampton - Old Market"}
+{"service":"40A","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Shirehampton - Old Market"}
+{"service":"41","operator":"First","area":"B&NES","routeName":"Odd Down Park & Ride - Centre"}
+{"service":"41","operator":"First","area":"Bristol","routeName":"Avonmouth - Coombe Dingle - Old Market"}
+{"service":"42","operator":"First","area":"Bristol","routeName":"Keynsham/Bitton - Kingswood - Centre"}
+{"service":"43","operator":"First","area":"Bristol","routeName":"Cadbury Heath - Kingswood - Centre"}
+{"service":"44","operator":"First","area":"Bristol","routeName":"Kingswood - Hanham - Centre"}
+{"service":"45","operator":"First","area":"Bristol","routeName":"Longwell Green - Hanham - Centre"}
+{"service":"48","operator":"First","area":"Bristol","routeName":"Emersons Green - Fishponds - Centre"}
+{"service":"49","operator":"First","area":"Bristol","routeName":"Emersons Green - Downend - Centre"}
+{"service":"51","operator":"First","area":"Bristol","routeName":"Whitchurch - Knowle - Centre"}
+{"service":"54","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Henleaze - Centre - Stockwood"}
+{"service":"70","operator":"First","area":"Bristol","routeName":"UWE Frenchay - Centre - Temple Meads Station"}
+{"service":"73","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Bradley Stoke - Filton - Centre"}
+{"service":"74","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Bradley Stoke - Filton - Centre"}
+{"service":"75","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Centre - Hengrove Depot"}
+{"service":"76","operator":"First","area":"Bristol","routeName":"Henbury - Centre - Hengrove Depot"}
+{"service":"90","operator":"First","area":"Bristol","routeName":"Hengrove Depot - Filwood Grove - Centre"}
+{"service":"173","operator":"First","area":"B&NES / Bristol","routeName":"Wells - Norton Radstock - Bristol"}
+{"service":"175","operator":"Somerbus","area":"B&NES","routeName":"Peasedown St. John - Bath"}
+{"service":"178","operator":"First","area":"B&NES / Bristol","routeName":"Bath - Midsomer Norton - Bristol"}
+{"service":"178","operator":"Wessex","area":"B&NES / Bristol","routeName":"Bath - Midsomer Norton - Bristol"}
+{"service":"184","operator":"First","area":"B&NES","routeName":"Frome - Bath"}
+{"service":"309","operator":"First","area":"South Glos / Bristol","routeName":"Thornbury - Almondsbury - Bristol"}
+{"service":"310","operator":"First","area":"South Glos / Bristol","routeName":"Thornbury - Almondsbury - Bristol"}
+{"service":"311","operator":"First","area":"South Glos","routeName":"Dursley - Thornbury"}
+{"service":"319","operator":"First","area":"B&NES / Bristol","routeName":"Bath - Parkway Station - Cribbs Causeway"}
+{"service":"327","operator":"First","area":"South Glos / Bristol","routeName":"Yate - Frampton Cotterell - Bristol"}
+{"service":"337","operator":"First","area":"B&NES","routeName":"Keynsham - Saltford - Bath"}
+{"service":"338","operator":"First","area":"B&NES / Bristol","routeName":"Bath - Saltford - Keynsham - Bristol"}
+{"service":"339","operator":"First","area":"B&NES / Bristol","routeName":"Bath - Saltford - Keynsham - Bristol"}
+{"service":"342","operator":"First","area":"South Glos / Bristol","routeName":"Chipping Sodbury - Yate - Bristol"}
+{"service":"349","operator":"ABUS","area":"B&NES / Bristol","routeName":"Keynsham - Brislington - Bristol"}
+{"service":"352","operator":"First","area":"Nth Somerset / Bristol","routeName":"Weston-super-Mare - Bristol"}
+{"service":"353","operator":"First","area":"Nth Somerset / Bristol","routeName":"Weston-super-Mare - Bristol"}
+{"service":"354","operator":"First","area":"Nth Somerset / Bristol","routeName":"Nailsea - Bristol"}
+{"service":"357","operator":"First","area":"Nth Somerset / Bristol","routeName":"Portishead - Abbots Leigh - Bristol"}
+{"service":"358","operator":"First","area":"Nth Somerset / Bristol","routeName":"Portishead - Bristol"}
+{"service":"359","operator":"First","area":"Nth Somerset / Bristol","routeName":"Portishead - Bristol"}
+{"service":"361","operator":"First","area":"Nth Somerset / Bristol","routeName":"Clevedon - Tickenham - Bristol"}
+{"service":"362","operator":"First","area":"Nth Somerset / Bristol","routeName":"Clevedon - Nailsea - Bristol"}
+{"service":"363","operator":"First","area":"Nth Somerset / Bristol","routeName":"Clevedon - Nailsea - Bristol"}
+{"service":"376","operator":"First","area":"B&NES / Bristol","routeName":"Wells - Pensford - Whitchurch - Bristol"}
+{"service":"379","operator":"First","area":"B&NES / Bristol","routeName":"Shepton Mallet - Radstock - Bristol"}
+{"service":"678","operator":"Wessex","area":"B&NES / Bristol","routeName":"Writhlington - Radstock - Bristol"}
+{"service":"782","operator":"Somerbus","area":"B&NES","routeName":"Radstock - Midsomer Norton - Paulton"}
+{"service":"902","operator":"CT Plus","area":"Bristol","routeName":"Portway Park & Ride - Centre"}
+{"service":"903","operator":"First","area":"Bristol","routeName":"Long Ashton Park & Ride - Centre"}
+{"service":"904","operator":"CT Plus","area":"Bristol","routeName":"Brislington Park & Ride - Centre"}
+{"service":"A1","operator":"First","area":"Bristol","routeName":"Bristol Bus Station - Bristol Airport "}
+{"service":"A2","operator":"First","area":"Bristol","routeName":"Clifton - Bristol Bus Station - Bristol Airport"}
+{"service":"N1","operator":"Wessex","area":"Bristol","routeName":"Centre - Lockleaze - Filton - Southmead"}
+{"service":"N2","operator":"Wessex","area":"Bristol","routeName":"Centre - Fishponds - Downend - Staple Hill"}
+{"service":"N3","operator":"Wessex","area":"Bristol","routeName":"Centre - Kingswood - Hanham"}
+{"service":"N4","operator":"Wessex","area":"Bristol","routeName":"Centre - Broom Hill - Brislington - Stockwood"}
+{"service":"N5","operator":"Wessex","area":"Bristol","routeName":"Centre - Knowle - Whitchurch"}
+{"service":"N6","operator":"Wessex","area":"Bristol","routeName":"Centre - Bedminster - Bishopsworth - Hartcliffe"}
+{"service":"X1","operator":"First","area":"Nth Somerset / Bristol","routeName":"Weston-super-Mare - Bristol"}
+{"service":"X10","operator":"First","area":"Wales / Bristol","routeName":"Chepstow - Bristol"}
+{"service":"X11","operator":"First","area":"Wales / Bristol","routeName":"Chepstow - Bristol"}
+{"service":"X14","operator":"First","area":"Wales / Bristol","routeName":"Chepstow - Bristol"}
+{"service":"X25","operator":"First","area":"Nth Somerset / South Glos","routeName":"Portishead - Cribbs Causeway"}
+{"service":"X27","operator":"Wessex","area":"South Glos / Bristol","routeName":"Yate - Winterbourne - Bristol"}
+{"service":"X39","operator":"First","area":"B&NES / Bristol","routeName":"Bath - Saltford - Bristol"}
+{"service":"X42","operator":"First","area":"South Glos / Bristol","routeName":"Chipping Sodbury - Yate - Bristol"}
+{"service":"X73","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Bradley Stoke - Bristol"}
+{"service":"Service","operator":"Operator","area":"Area","routeName":"Route"}
+{"service":"1","operator":"First","area":"Bristol","routeName":"Broom Hill - Centre - Cribbs Causeway"}
+{"service":"4","operator":"First","area":"Bristol","routeName":"Downend - Frenchay - Centre"}
+{"service":"5","operator":"First","area":"Bristol","routeName":"Downend - Fishponds - Centre"}
+{"service":"5","operator":"First","area":"Weston-super-Mare","routeName":"Worle - Uphill"}
+{"service":"6","operator":"First","area":"Bristol","routeName":"Kingswood - Speedwell - Centre"}
+{"service":"7","operator":"First","area":"Bristol","routeName":"Staple Hill - Speedwell - Centre"}
+{"service":"7","operator":"First","area":"Weston-super-Mare","routeName":"Worle - Oldmixon"}
+{"service":"8","operator":"First","area":"Bristol","routeName":"TempleMeads  - Clifton - TempleMeads"}
+{"service":"9","operator":"First","area":"Bristol","routeName":"TempleMeads  - Redland - TempleMeads"}
+{"service":"11","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Temple Meads - Bower Ashton"}
+{"service":"11A","operator":"Wessex","area":"Bristol","routeName":"Broadmead - Bower Ashton"}
+{"service":"12","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Horfield - Centre"}
+{"service":"13","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Fishponds - Broadmead"}
+{"service":"13A","operator":"Wessex","area":"Bristol","routeName":"Oldbury Court - Fishponds - Broadmead"}
+{"service":"14","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Centre"}
+{"service":"14","operator":"First","area":"Wales","routeName":"Chepstow - Newport"}
+{"service":"15","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Henleaze - Centre"}
+{"service":"16","operator":"Wessex","area":"Bristol","routeName":"Sneyd Park - Bristol University - Centre"}
+{"service":"18","operator":"First","area":"Bristol","routeName":"Emersons Green - UWE Frenchay - Southmead"}
+{"service":"19","operator":"Wessex","area":"Bristol","routeName":"UWE Frenchay - Redland - Centre"}
+{"service":"20","operator":"First","area":"Bristol","routeName":"Hengrove Depot - Centre - Southmead"}
+{"service":"21","operator":"First","area":"B&NES","routeName":"Newbridge Park & Ride - Centre"}
+{"service":"24","operator":"First","area":"Bristol","routeName":"Horfield - Easton - Centre - Ashton Vale"}
+{"service":"25","operator":"First","area":"Bristol","routeName":"Horfield - St Paul's - Centre - Ashton Vale"}
+{"service":"31","operator":"First","area":"B&NES","routeName":"Lansdown Park & Ride - Centre"}
+{"service":"36","operator":"First","area":"Bristol","routeName":"Withywood - Knowle - St. Annes - Centre"}
+{"service":"40","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Shirehampton - Old Market"}
+{"service":"40A","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Shirehampton - Old Market"}
+{"service":"41","operator":"First","area":"B&NES","routeName":"Odd Down Park & Ride - Centre"}
+{"service":"41","operator":"First","area":"Bristol","routeName":"Avonmouth - Coombe Dingle - Old Market"}
+{"service":"42","operator":"First","area":"Bristol","routeName":"Keynsham/Bitton - Kingswood - Centre"}
+{"service":"43","operator":"First","area":"Bristol","routeName":"Cadbury Heath - Kingswood - Centre"}
+{"service":"44","operator":"First","area":"Bristol","routeName":"Kingswood - Hanham - Centre"}
+{"service":"45","operator":"First","area":"Bristol","routeName":"Longwell Green - Hanham - Centre"}
+{"service":"48","operator":"First","area":"Bristol","routeName":"Emersons Green - Fishponds - Centre"}
+{"service":"49","operator":"First","area":"Bristol","routeName":"Emersons Green - Downend - Centre"}
+{"service":"51","operator":"First","area":"Bristol","routeName":"Whitchurch - Knowle - Centre"}
+{"service":"54","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Henleaze - Centre - Stockwood"}
+{"service":"70","operator":"First","area":"Bristol","routeName":"UWE Frenchay - Centre - Temple Meads Station"}
+{"service":"73","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Bradley Stoke - Filton - Centre"}
+{"service":"74","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Bradley Stoke - Filton - Centre"}
+{"service":"75","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Centre - Hengrove Depot"}
+{"service":"76","operator":"First","area":"Bristol","routeName":"Henbury - Centre - Hengrove Depot"}
+{"service":"90","operator":"First","area":"Bristol","routeName":"Hengrove Depot - Filwood Grove - Centre"}
+{"service":"173","operator":"First","area":"B&NES / Bristol","routeName":"Wells - Norton Radstock - Bristol"}
+{"service":"175","operator":"Somerbus","area":"B&NES","routeName":"Peasedown St. John - Bath"}
+{"service":"178","operator":"First","area":"B&NES / Bristol","routeName":"Bath - Midsomer Norton - Bristol"}
+{"service":"178","operator":"Wessex","area":"B&NES / Bristol","routeName":"Bath - Midsomer Norton - Bristol"}
+{"service":"184","operator":"First","area":"B&NES","routeName":"Frome - Bath"}
+{"service":"309","operator":"First","area":"South Glos / Bristol","routeName":"Thornbury - Almondsbury - Bristol"}
+{"service":"310","operator":"First","area":"South Glos / Bristol","routeName":"Thornbury - Almondsbury - Bristol"}
+{"service":"311","operator":"First","area":"South Glos","routeName":"Dursley - Thornbury"}
+{"service":"319","operator":"First","area":"B&NES / Bristol","routeName":"Bath - Parkway Station - Cribbs Causeway"}
+{"service":"327","operator":"First","area":"South Glos / Bristol","routeName":"Yate - Frampton Cotterell - Bristol"}
+{"service":"337","operator":"First","area":"B&NES","routeName":"Keynsham - Saltford - Bath"}
+{"service":"338","operator":"First","area":"B&NES / Bristol","routeName":"Bath - Saltford - Keynsham - Bristol"}
+{"service":"339","operator":"First","area":"B&NES / Bristol","routeName":"Bath - Saltford - Keynsham - Bristol"}
+{"service":"342","operator":"First","area":"South Glos / Bristol","routeName":"Chipping Sodbury - Yate - Bristol"}
+{"service":"349","operator":"ABUS","area":"B&NES / Bristol","routeName":"Keynsham - Brislington - Bristol"}
+{"service":"352","operator":"First","area":"Nth Somerset / Bristol","routeName":"Weston-super-Mare - Bristol"}
+{"service":"353","operator":"First","area":"Nth Somerset / Bristol","routeName":"Weston-super-Mare - Bristol"}
+{"service":"354","operator":"First","area":"Nth Somerset / Bristol","routeName":"Nailsea - Bristol"}
+{"service":"357","operator":"First","area":"Nth Somerset / Bristol","routeName":"Portishead - Abbots Leigh - Bristol"}
+{"service":"358","operator":"First","area":"Nth Somerset / Bristol","routeName":"Portishead - Bristol"}
+{"service":"359","operator":"First","area":"Nth Somerset / Bristol","routeName":"Portishead - Bristol"}
+{"service":"361","operator":"First","area":"Nth Somerset / Bristol","routeName":"Clevedon - Tickenham - Bristol"}
+{"service":"362","operator":"First","area":"Nth Somerset / Bristol","routeName":"Clevedon - Nailsea - Bristol"}
+{"service":"363","operator":"First","area":"Nth Somerset / Bristol","routeName":"Clevedon - Nailsea - Bristol"}
+{"service":"376","operator":"First","area":"B&NES / Bristol","routeName":"Wells - Pensford - Whitchurch - Bristol"}
+{"service":"379","operator":"First","area":"B&NES / Bristol","routeName":"Shepton Mallet - Radstock - Bristol"}
+{"service":"678","operator":"Wessex","area":"B&NES / Bristol","routeName":"Writhlington - Radstock - Bristol"}
+{"service":"782","operator":"Somerbus","area":"B&NES","routeName":"Radstock - Midsomer Norton - Paulton"}
+{"service":"902","operator":"CT Plus","area":"Bristol","routeName":"Portway Park & Ride - Centre"}
+{"service":"903","operator":"First","area":"Bristol","routeName":"Long Ashton Park & Ride - Centre"}
+{"service":"904","operator":"CT Plus","area":"Bristol","routeName":"Brislington Park & Ride - Centre"}
+{"service":"A1","operator":"First","area":"Bristol","routeName":"Bristol Bus Station - Bristol Airport "}
+{"service":"A2","operator":"First","area":"Bristol","routeName":"Clifton - Bristol Bus Station - Bristol Airport"}
+{"service":"N1","operator":"Wessex","area":"Bristol","routeName":"Centre - Lockleaze - Filton - Southmead"}
+{"service":"N2","operator":"Wessex","area":"Bristol","routeName":"Centre - Fishponds - Downend - Staple Hill"}
+{"service":"N3","operator":"Wessex","area":"Bristol","routeName":"Centre - Kingswood - Hanham"}
+{"service":"N4","operator":"Wessex","area":"Bristol","routeName":"Centre - Broom Hill - Brislington - Stockwood"}
+{"service":"N5","operator":"Wessex","area":"Bristol","routeName":"Centre - Knowle - Whitchurch"}
+{"service":"N6","operator":"Wessex","area":"Bristol","routeName":"Centre - Bedminster - Bishopsworth - Hartcliffe"}
+{"service":"X1","operator":"First","area":"Nth Somerset / Bristol","routeName":"Weston-super-Mare - Bristol"}
+{"service":"X10","operator":"First","area":"Wales / Bristol","routeName":"Chepstow - Bristol"}
+{"service":"X11","operator":"First","area":"Wales / Bristol","routeName":"Chepstow - Bristol"}
+{"service":"X14","operator":"First","area":"Wales / Bristol","routeName":"Chepstow - Bristol"}
+{"service":"X25","operator":"First","area":"Nth Somerset / South Glos","routeName":"Portishead - Cribbs Causeway"}
+{"service":"X27","operator":"Wessex","area":"South Glos / Bristol","routeName":"Yate - Winterbourne - Bristol"}
+{"service":"X39","operator":"First","area":"B&NES / Bristol","routeName":"Bath - Saltford - Bristol"}
+{"service":"X42","operator":"First","area":"South Glos / Bristol","routeName":"Chipping Sodbury - Yate - Bristol"}
+{"service":"X73","operator":"First","area":"Bristol","routeName":"Cribbs Causeway - Bradley Stoke - Bristol"}
